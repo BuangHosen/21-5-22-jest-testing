@@ -2,6 +2,9 @@ const sum = (a,b) => a+b
 const subtract = (a,b) => a-b
 const cloneArray = (array) => [...array]
 
+// 1. toBe test exact equality same goes triple equal (===)
+// 2. toEqual test same value same like double equal (==)
+
 test('Properly adds two numbers', () => {
   expect(sum(1, 2)).toBe(3);
 });
