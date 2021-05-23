@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1621680578297" clover="3.2.0">
-  <project timestamp="1621680578297" name="All files">
+<coverage generated="1621736320012" clover="3.2.0">
+  <project timestamp="1621736320013" name="All files">
     <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="6" coveredelements="6" complexity="0" loc="3" ncloc="3" packages="1" files="3" classes="3"/>
-    <file name="cloneArray.js" path="/Users/jason/Documents/Abu-Learning/Jest/test/cloneArray.js">
+    <file name="cloneArray.js" path="/Users/jason/Documents/Abu-Learning/Jest/test/matchers/cloneArray.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
     </file>
-    <file name="subtract.js" path="/Users/jason/Documents/Abu-Learning/Jest/test/subtract.js">
+    <file name="subtract.js" path="/Users/jason/Documents/Abu-Learning/Jest/test/matchers/subtract.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
     </file>
-    <file name="sum.js" path="/Users/jason/Documents/Abu-Learning/Jest/test/sum.js">
+    <file name="sum.js" path="/Users/jason/Documents/Abu-Learning/Jest/test/matchers/sum.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
     </file>
